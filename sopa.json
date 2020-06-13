@@ -1,0 +1,182 @@
+{
+    "3x3": [
+        {
+          "columnas": [
+            {
+                "columna": 1,
+                "letras": ["o", "i", "e"]
+            },
+            {
+                "columna": 2,
+                "letras": ["i", "i", "x"]
+            },
+            {
+                "columna": 3,
+                "letras": ["e", "x", "e"]
+            }
+          ],
+          "filas": [
+            {
+                "fila": 1,
+                "letras": ["o", "i", "e"]
+            },
+            {
+                "fila": 2,
+                "letras": ["i", "i", "x"]
+            },
+            {
+                "fila": 3,
+                "letras": ["e", "x", "e"]
+            }
+          ]
+
+        }
+    ],
+    "1x10": [
+        {
+          "columnas": [
+            {
+                "columna": 1,
+                "letras": ["e"]
+            },
+            {
+                "columna": 2,
+                "letras": ["i"]
+            },
+            {
+                "columna": 3,
+                "letras": ["o"]
+            },
+            {
+                "columna": 4,
+                "letras": ["i"]
+            },
+            {
+                "columna": 5,
+                "letras": ["e"]
+            },
+            {
+                "columna": 6,
+                "letras": ["i"]
+            },
+            {
+                "columna": 7,
+                "letras": ["o"]
+            },
+            {
+                "columna": 8,
+                "letras": ["e"]
+            },
+            {
+                "columna": 9,
+                "letras": ["i"]
+            },
+            {
+                "columna": 10,
+                "letras": ["o"]
+            }
+          ],
+          "filas": [
+            {
+                "fila": 1,
+                "letras": ["e", "i", "o", "i", "e", "i", "o", "e", "i", "o"]
+            }
+          ]
+
+        }
+    ],
+    "5x5": [
+        {
+          "columnas": [
+            {
+                "columna": 1,
+                "letras": ["e", "a", "e", "a", "e"]
+            },
+            {
+                "columna": 2,
+                "letras": ["a", "i", "i", "i", "a"]
+            },
+            {
+                "columna": 3,
+                "letras": ["e", "i", "o", "i", "e"]
+            },
+            {
+                "columna": 4,
+                "letras": ["a", "i", "i", "i", "a"]
+            },
+            {
+                "columna": 5,
+                "letras": ["e", "a", "e", "a", "e"]
+            }
+          ],
+          "filas": [
+            {
+                "fila": 1,
+                "letras": ["e", "a", "e", "a", "e"]
+            },
+            {
+                "fila": 2,
+                "letras": ["a", "i", "i", "i", "a"]
+            },
+            {
+                "fila": 3,
+                "letras": ["e", "i", "o", "i", "e"]
+            },
+            {
+                "fila": 4,
+                "letras": ["a", "i", "i", "i", "a"]
+            },
+            {
+                "fila": 5,
+                "letras": ["e", "a", "e", "a", "e"]
+            }
+          ]
+
+        }
+    ],
+    "7x2": [
+        {
+          "columnas": [
+            {
+                "columna": 1,
+                "letras": ["o", "i", "e", "i", "o", "i", "e"]
+            },
+            {
+                "columna": 2,
+                "letras": ["x", "o", "x", "i", "x", "e", "x"]
+            }
+          ],
+          "filas": [
+            {
+                "fila": 1,
+                "letras": ["o", "x"]
+            },
+            {
+                "fila": 2,
+                "letras": ["i", "o"]
+            },
+            {
+                "fila": 3,
+                "letras": ["e", "x"]
+            },
+            {
+                "fila": 4,
+                "letras": ["i", "i"]
+            },
+            {
+                "fila": 5,
+                "letras": ["o", "x"]
+            },
+            {
+                "fila": 6,
+                "letras": ["i", "e"]
+            },
+            {
+                "fila": 7,
+                "letras": ["e", "x"]
+            }
+          ]
+
+        }
+    ]
+}
